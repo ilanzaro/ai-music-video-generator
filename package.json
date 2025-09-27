@@ -1,0 +1,16 @@
+{
+  "name": "ai-music-video-generator",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend-node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github-personal:ilanzaro/ai-music-video-generator.git"
+  },
+  "author": "Ilan Zaro",
+  "license": "ISC",
+  "description": ""
+}
